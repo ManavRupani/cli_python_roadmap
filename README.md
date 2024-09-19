@@ -23,7 +23,7 @@ The Number Guessing Game is a simple console-based game where players try to gue
 2. Clone or download this repository to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/ManavRupani/cli_python_roadmap
     cd <repository_directory>
     ```
 
